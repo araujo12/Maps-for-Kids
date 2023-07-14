@@ -5,7 +5,25 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9a66e87b645492740957648ce3301c93
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 7dbc73f30f931414091a5fbd5f102802
+  - enabled: 1
+    path: Assets/Scenes/Loja.unity
+    guid: 471b6f35be06cc445a3ac024ddc3a12a
+  - enabled: 1
+    path: Assets/Scenes/Temas.unity
+    guid: a163864522f30b24f99a32b27d65bde5
+  - enabled: 1
+    path: Assets/Scenes/Cutscene_Solar.unity
+    guid: 0b67ad8624e24e14ca8cee5244de4d88
+  - enabled: 1
+    path: Assets/Scenes/SelectN1_fase.unity
+    guid: 23c4a8eac78d2594bb77a335ec7a860d
   m_configObjects: {}
