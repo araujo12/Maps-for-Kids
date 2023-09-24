@@ -8,6 +8,7 @@ public class Quest : MonoBehaviour
 {
     public GameObject questSC, questBTN, nextQuest;   
     public GameObject planetIMG;
+    private ScroreScript scroreScript;
     void Start()
     {
        
@@ -30,6 +31,8 @@ public class Quest : MonoBehaviour
         questSC.SetActive(false );        
         planetIMG.GetComponent<Image>().enabled = true;
         nextQuest.SetActive(true);
+        //scroreScript.ScorePointAdd()
+        
         
     }
 }

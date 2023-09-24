@@ -326,6 +326,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae00201809e6ad3478098dd49ea8b67d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  timer: 0
   nameScene: Level_1
 --- !u!4 &1319319058
 Transform:
@@ -390,11 +391,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 2
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
-  m_ScreenMatchMode: 0
+  m_ScreenMatchMode: 2
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
